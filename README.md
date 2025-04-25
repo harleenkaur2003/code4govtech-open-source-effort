@@ -22,3 +22,12 @@ Frontend Developer | Accessibility Enthusiast
 ```html
 <amp-img alt="MusicBlocks Logo" title="MusicBlocks Logo" src="images/logo.svg">
 </amp-img>
+```
+---
+
+## Screenshots:
+
+**Pull Request Submitted:**
+
+![Pull-Request](https://github.com/user-attachments/assets/4ecfac20-5de6-4e3a-986b-58264eabb9d8)
+
