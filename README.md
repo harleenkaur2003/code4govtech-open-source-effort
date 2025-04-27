@@ -1,6 +1,6 @@
 # Code4GovTech 2025 – Open Source Contribution
 
-Successfully contributed to the open-source project **MusicBlocks** by Sugar Labs.
+✅ Successfully contributed to the open-source project **MusicBlocks** by Sugar Labs.
 
 ## Final Contribution:
 - Improved accessibility by updating the `<amp-img>` tag with a proper `alt` attribute for screen reader support.
