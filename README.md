@@ -8,10 +8,6 @@
 
 🔗 Final Pull Request: [MusicBlocks PR #4645](https://github.com/sugarlabs/musicblocks/pull/4645)
 
-## About Me
-Harleen Kaur  
-B.Tech IT, Delhi Technological University (Batch of 2026)  
-Frontend Developer | Accessibility Enthusiast
 
 ---
 
